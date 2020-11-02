@@ -87,14 +87,7 @@ body{
 
 }
 
-@keyframes fade {
-    from {
-        opacity: .1
-    }
-    to {
-        opacity: 4
-    }
-}
+
 
 #examples .slider a>img{
 	width: 100%;
