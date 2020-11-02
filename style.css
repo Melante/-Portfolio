@@ -84,7 +84,6 @@ body{
 #examples .slider a{
 	width: 100%;
 	display: none;
-
 }
 
 
@@ -93,8 +92,7 @@ body{
 	width: 100%;
 	height:  600px;
 	background-size: cover;
-     animation-name: fade;
-    animation-duration: 2s;
+    
 }
 
 #examples .slider a:first-child{
@@ -147,7 +145,7 @@ body{
 .social img{
 	height: 100px;
 	width: 100px;
-	background-color: white;
+	
 	border-radius: 50%;
 }
 
@@ -163,4 +161,5 @@ body{
 .social a>p:hover{
 	border: 1px solid white;
 	text-decoration: none;
+	border-radius: 10px;
 }
